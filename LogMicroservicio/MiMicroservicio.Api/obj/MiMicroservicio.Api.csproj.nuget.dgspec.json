@@ -1,0 +1,309 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Api\\MiMicroservicio.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Api\\MiMicroservicio.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Api\\MiMicroservicio.Api.csproj",
+        "projectName": "MiMicroservicio.Api",
+        "projectPath": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Api\\MiMicroservicio.Api.csproj",
+        "packagesPath": "C:\\Users\\CPU\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CPU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Application\\MiMicroservicio.Application.csproj": {
+                "projectPath": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Application\\MiMicroservicio.Application.csproj"
+              },
+              "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Infrastructure\\MiMicroservicio.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Infrastructure\\MiMicroservicio.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Application\\MiMicroservicio.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Application\\MiMicroservicio.Application.csproj",
+        "projectName": "MiMicroservicio.Application",
+        "projectPath": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Application\\MiMicroservicio.Application.csproj",
+        "packagesPath": "C:\\Users\\CPU\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CPU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Domain\\MiMicroservicio.Domain.csproj": {
+                "projectPath": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Domain\\MiMicroservicio.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Domain\\MiMicroservicio.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Domain\\MiMicroservicio.Domain.csproj",
+        "projectName": "MiMicroservicio.Domain",
+        "projectPath": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Domain\\MiMicroservicio.Domain.csproj",
+        "packagesPath": "C:\\Users\\CPU\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CPU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Infrastructure\\MiMicroservicio.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Infrastructure\\MiMicroservicio.Infrastructure.csproj",
+        "projectName": "MiMicroservicio.Infrastructure",
+        "projectPath": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Infrastructure\\MiMicroservicio.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\CPU\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CPU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Application\\MiMicroservicio.Application.csproj": {
+                "projectPath": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Application\\MiMicroservicio.Application.csproj"
+              },
+              "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Domain\\MiMicroservicio.Domain.csproj": {
+                "projectPath": "C:\\Users\\CPU\\Documents\\LogMicroservicio\\MiMicroservicio.Domain\\MiMicroservicio.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

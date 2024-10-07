@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2ggLwaGmsKXDUUXdyKZcNt2CL19cpp9zTyBCW1g+dkI=",
+  "Source": "LogMicroservicio.Api",
+  "BasePath": "_content/LogMicroservicio.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

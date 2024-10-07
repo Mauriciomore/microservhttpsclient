@@ -1,0 +1,11 @@
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Domain\bin\Debug\net8.0\MiMicroservicio.Domain.deps.json
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Domain\bin\Debug\net8.0\MiMicroservicio.Domain.dll
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Domain\bin\Debug\net8.0\MiMicroservicio.Domain.pdb
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Domain\obj\Debug\net8.0\MiMicroservicio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Domain\obj\Debug\net8.0\MiMicroservicio.Domain.AssemblyInfoInputs.cache
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Domain\obj\Debug\net8.0\MiMicroservicio.Domain.AssemblyInfo.cs
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Domain\obj\Debug\net8.0\MiMicroservicio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Domain\obj\Debug\net8.0\MiMicroservicio.Domain.dll
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Domain\obj\Debug\net8.0\refint\MiMicroservicio.Domain.dll
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Domain\obj\Debug\net8.0\MiMicroservicio.Domain.pdb
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Domain\obj\Debug\net8.0\ref\MiMicroservicio.Domain.dll

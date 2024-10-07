@@ -1,0 +1,17 @@
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\obj\Debug\net8.0\MiMicroservicio.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\obj\Debug\net8.0\MiMicroservicio.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\obj\Debug\net8.0\MiMicroservicio.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\obj\Debug\net8.0\MiMicroservicio.Infrastructure.AssemblyInfo.cs
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\obj\Debug\net8.0\MiMicroservicio.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\bin\Debug\net8.0\MiMicroservicio.Infrastructure.deps.json
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\bin\Debug\net8.0\MiMicroservicio.Infrastructure.dll
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\bin\Debug\net8.0\MiMicroservicio.Infrastructure.pdb
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\bin\Debug\net8.0\MiMicroservicio.Application.dll
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\bin\Debug\net8.0\MiMicroservicio.Domain.dll
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\bin\Debug\net8.0\MiMicroservicio.Application.pdb
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\bin\Debug\net8.0\MiMicroservicio.Domain.pdb
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\obj\Debug\net8.0\MiMicros.4AF536A5.Up2Date
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\obj\Debug\net8.0\MiMicroservicio.Infrastructure.dll
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\obj\Debug\net8.0\refint\MiMicroservicio.Infrastructure.dll
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\obj\Debug\net8.0\MiMicroservicio.Infrastructure.pdb
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Infrastructure\obj\Debug\net8.0\ref\MiMicroservicio.Infrastructure.dll

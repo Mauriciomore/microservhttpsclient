@@ -1,0 +1,15 @@
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Application\bin\Debug\net8.0\MiMicroservicio.Application.deps.json
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Application\bin\Debug\net8.0\MiMicroservicio.Application.dll
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Application\bin\Debug\net8.0\MiMicroservicio.Application.pdb
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Application\bin\Debug\net8.0\MiMicroservicio.Domain.dll
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Application\bin\Debug\net8.0\MiMicroservicio.Domain.pdb
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Application\obj\Debug\net8.0\MiMicroservicio.Application.csproj.AssemblyReference.cache
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Application\obj\Debug\net8.0\MiMicroservicio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Application\obj\Debug\net8.0\MiMicroservicio.Application.AssemblyInfoInputs.cache
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Application\obj\Debug\net8.0\MiMicroservicio.Application.AssemblyInfo.cs
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Application\obj\Debug\net8.0\MiMicroservicio.Application.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Application\obj\Debug\net8.0\MiMicros.FE568BA1.Up2Date
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Application\obj\Debug\net8.0\MiMicroservicio.Application.dll
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Application\obj\Debug\net8.0\refint\MiMicroservicio.Application.dll
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Application\obj\Debug\net8.0\MiMicroservicio.Application.pdb
+C:\Users\CPU\source\repos\MiMicroservicio\MiMicroservicio.Application\obj\Debug\net8.0\ref\MiMicroservicio.Application.dll
